@@ -51,7 +51,7 @@ export const skills: Skill[] = [
   { name: 'Git/Github', Icon: FaGithub, color: 'text-black-' },
 ];
 
-// assets/asset.ts
+
 export const projects = [
   {
     title: 'Fresh Cart-Grocery App',
