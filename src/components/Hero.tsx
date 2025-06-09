@@ -48,7 +48,7 @@ const Hero = () => {
 
         <div className="flex flex-wrap gap-4">
           <a
-            href="/Vijay_Kumar_CV.pdf"
+            href="/Vijay_Kumar_Resume.pdf"
             download
             className="bg-white/10 border border-violet-600 hover:bg-violet-700 px-6 py-3 rounded-lg text-white font-medium transition shadow-md"
           >
