@@ -7,8 +7,7 @@ import authe from '../assets/auth.png';
 
 
 
-// src/assets/assets.ts
-// src/assets/assets.ts
+
 import {
   FaHtml5,
   FaCss3Alt,
