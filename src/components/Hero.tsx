@@ -76,7 +76,8 @@ const Hero = () => {
       </div>
 
       <div className='flex-1 mt-10 md:mt-0 flex justify-center z-10'>
-<div className="relative w-[26rem] h-[26rem] rounded-full flex items-center justify-center ">
+<div className="relative w-60 h-60 sm:w-72 sm:h-72 md:w-[26rem] md:h-[26rem] rounded-full flex items-center justify-center">
+
   
   <div className="absolute w-full h-full rounded-full animate-spin-gradient z-0 blur-sm opacity-70">
     <div className="w-full h-full rounded-full bg-[conic-gradient(from_0deg,#8b5cf6,#3b82f6,#06b6d4,#8b5cf6)]" />
